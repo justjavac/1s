@@ -10,7 +10,7 @@
 
 1. github +1s
 
-    在 GitHub 域名后面加 `1s` 可以直接使用 vscode online 打开仓库代码，例如 <https://github1s.com/justjavac/1s>
+    在 GitHub 域名后面加 `1s` 可以直接使用 vscode online 打开仓库代码，例如 [https://github1s.com/justjavac/1s](https://github1s.com/justjavac/1s/blob/main/README.md)
 
     ```
     https://github1s.com/justjavac/1s
