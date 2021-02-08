@@ -25,6 +25,14 @@
     https://www.youtube1s.com/watch?v=RGOj5yH7evk
                        ^^      
     ```
+1. tiktok +1s
+
+    国外版抖音的视频，可以在 tiktok 后面加 `1s`，直接下载此视频。
+
+    ```
+    https://www.tiktok1s.com/@rampage_thedancer/video/6905482704012217605?is_copy_url=1&is_from_webapp=v1
+                       ^^      
+    ```
 
 ----------
 
